@@ -4,7 +4,7 @@
 - CSS
 - BootStrap
 - Javascript
-- Jquery
+- Json Data
 
 ## Introduction
 
