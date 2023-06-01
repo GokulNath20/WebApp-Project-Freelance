@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This is a web applications developed during freelancing. This is a free template found from the internet and modified based on the user needs with additional work on HTML, CSS and Javascript function for the laptop shortlist function of the system.
+This are the websites developed during freelancing. Design templates found from the internet and modified based on the user needs with additional work on HTML, CSS and Javascript for the laptop shortlist function of the system.
 
 ![Pic1](https://user-images.githubusercontent.com/61192087/229442221-68bc583f-f146-48f9-932b-744210ffabf5.PNG)
 ![Pic2](https://user-images.githubusercontent.com/61192087/229442227-d31b1043-09a0-4961-a7cc-2500bb3f3ad3.PNG)
